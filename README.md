@@ -49,7 +49,7 @@ This project is a part of **Cohort 3.0** Week 4.1 assignment on **HTTP Server In
 1. **Start the server:**
 
    ```bash
-   npm start
+   npm run start
    ```
 
 2. The server will start on `http://localhost:3000/`.
